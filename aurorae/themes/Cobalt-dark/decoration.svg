@@ -6,7 +6,7 @@
    version="1.1"
    viewBox="0 0 300 300"
    sodipodi:docname="decoration.svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -36,12 +36,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-height="1000"
      id="namedview57"
      showgrid="false"
-     inkscape:zoom="2"
-     inkscape:cx="67.75"
-     inkscape:cy="51.5"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="400.92954"
+     inkscape:cy="57.275649"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -519,6 +519,13 @@
        style="opacity:0.75;fill:#202020;fill-opacity:1;stroke:none;stroke-width:1.1547"
        d="M 470,277 H 325 v 8 h 145 z"
        id="path6211-7" />
+    <rect
+       style="opacity:0.05;fill:#ffffff"
+       id="rect1013"
+       width="145"
+       height="8"
+       x="325"
+       y="277" />
   </g>
   <g
      inkscape:label="#decoration-top"
@@ -587,6 +594,11 @@
        style="opacity:0.75;fill:#202020;fill-opacity:1;stroke:none"
        d="m 55,177 c 0,4.432 3.568,8 8,8 h 21 v -8 z"
        transform="translate(411,113.00002)" />
+    <path
+       id="rect1040"
+       style="opacity:0.05;fill:#ffffff"
+       d="m 495.00006,290.00002 v 8 h -21.00011 c -4.43201,0 -8,-3.568 -8,-8 z"
+       sodipodi:nodetypes="ccscc" />
     <g
        id="hrh-6"
        inkscape:label="#g5246"
@@ -787,6 +799,13 @@
        style="opacity:0.75;fill:#2c2c2c;fill-opacity:1;stroke:none;stroke-width:1.1547"
        d="M 470,277 H 325 v 8 h 145 z"
        id="path6211-7-6" />
+    <rect
+       style="opacity:0.05;fill:#ffffff"
+       id="rect1013-6"
+       width="145"
+       height="8"
+       x="325"
+       y="277" />
   </g>
   <g
      inkscape:label="#decoration-top"
@@ -855,6 +874,11 @@
        style="opacity:0.75;fill:#2c2c2c;fill-opacity:1;stroke:none"
        d="m 55,177 c 0,4.432 3.568,8 8,8 h 21 v -8 z"
        transform="translate(411,113.00002)" />
+    <path
+       id="rect1040-3"
+       style="opacity:0.05;fill:#ffffff"
+       d="m 495,290.00002 v 8 h -21.00011 c -4.432,0 -8,-3.568 -8,-8 z"
+       sodipodi:nodetypes="ccscc" />
     <g
        id="hrh-6-0"
        inkscape:label="#g5246"
